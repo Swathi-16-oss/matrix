@@ -32,7 +32,7 @@ for i in range(k):
     print()
 
 if(m==k and n==l):
-    print("addition of two matrix")
+    print("subtraction of two matrix")
     for i in range(len(matrix1)):
         for j in range(len(matrix1[0])):
             print([matrix1[i][j]-matrix2[i][j]],end=" ")
