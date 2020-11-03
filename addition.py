@@ -39,4 +39,36 @@ if(m==k and n==l):
         print()
 else:
     print("please check the order")
+    
+    
+'''o/p:
+for first matrix
+enter m order3
+enter n order2
+enter [00] element1
+enter [01] element2
+enter [10] element3
+enter [11] element4
+enter [20] element5
+enter [21] element6
+[1] [2] 
+[3] [4] 
+[5] [6] 
+for second matrix
+enter m order3
+enter n order2
+enter [00] element4
+enter [01] element5
+enter [10] element6
+enter [11] element3
+enter [20] element2
+enter [21] element1
+[4] [5] 
+[6] [3] 
+[2] [1] 
+addition of two matrix
+[-3] [-3] 
+[-3] [1] 
+[3] [5] 
+>>> 
 
