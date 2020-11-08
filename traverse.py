@@ -19,7 +19,6 @@ result=[[0,0,0],
 #for traverse matrix
 for i in range(len(matrix1)):
     for j in range(len(matrix1)):
-
         result[i][j]=matrix1[j][i]
 for r in result:
     print(r)
