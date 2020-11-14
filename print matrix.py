@@ -1,7 +1,7 @@
 m=int(input("enter m order"))
 n=int(input("enter n order"))
 matrix1=[]
-for i in range(m):#for row
+for i in range(m):
     a=[]
     for j in range(n):#for column
         a.append(int(input("enter [{}{}] element".format(i,j))))
