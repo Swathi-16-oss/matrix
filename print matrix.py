@@ -1,4 +1,3 @@
-
 m=int(input("enter m order"))
 n=int(input("enter n order"))
 matrix1=[]
@@ -13,6 +12,8 @@ for i in range(m):
         print([matrix1[i][j]],end=" ")
     print()
  
+ 
+    
  '''o/p:
  enter m order2
 enter n order2
