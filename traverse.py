@@ -22,7 +22,6 @@ for i in range(len(matrix1)):
         result[i][j]=matrix1[j][i]
 for r in result:
     print(r)
-
 '''o/p:
 for first matrix
 enter m order3
