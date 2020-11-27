@@ -12,10 +12,8 @@ for i in range(m):
         print([matrix1[i][j]],end=" ")
     print()
  
- 
-    
- '''o/p:
- enter m order2
+'''o/p:
+enter m order2
 enter n order2
 enter [00] element12
 enter [01] element3
