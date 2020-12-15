@@ -14,7 +14,6 @@ for i in range(m):
         print([matrix1[i][j]],end=" ")
     print()
     
-
 #for second matrix:
 print("for second matrix")
 k=int(input("enter m order"))
