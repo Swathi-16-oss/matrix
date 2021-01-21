@@ -16,6 +16,7 @@ det=0
 
 det=matrix1[0][0]*matrix1[1][1]-matrix1[0][1]*matrix1[1][0]
 print(det)
+
 '''o/p:
 for 2*2 matrix
 enter [00] element3
