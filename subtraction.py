@@ -39,6 +39,7 @@ if(m==k and n==l):
 else:
     print("please check the order")
 
+
 '''o/p:
 for first matrix
 enter m order2
